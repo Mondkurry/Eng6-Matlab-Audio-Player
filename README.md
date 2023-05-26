@@ -7,3 +7,42 @@ We created a Music Player using MATLAB for our Engineering 6 Final Project. Usin
 <img width="644" alt="image" src="https://github.com/Mondkurry/Eng6-Matlab-Audio-Player/assets/30964417/7d8d335c-c25a-474e-97ff-f5a875acfdba">
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hi
+
+
